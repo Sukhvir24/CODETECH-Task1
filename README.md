@@ -6,7 +6,7 @@ DURATION:  JULY 5th, 2024 to AUGUST 20th, 2024.
 
 
 # A OVERVIEW OF TASK VIEW:-
-Basic Calculator
+## A Basic Calculator
 
 Objective:
 Create a Java program that acts as a basic calculator. It should prompt the user to
