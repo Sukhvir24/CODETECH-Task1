@@ -14,4 +14,13 @@ enter two numbers and choose an operation (addition, subtraction, multiplication
 division). Then, it should perform the selected operation and display the result to the
 user.
 
-In this task I have created a basic calculator using Java. This program takes two number of Double data type. Then it takes another input to perform basic algebric operations between the two numbers. Finally it gives output of two numbers.
+# Basic Calculator
+
+This is a simple Java program that functions as a basic calculator. It prompts the user to enter two numbers, choose an operation (addition, subtraction, multiplication, or division), and then performs the selected operation, displaying the result to the user.
+
+## Features
+
+- **Basic Operations**: Supports addition, subtraction, multiplication, and division.
+- **User Input**: Prompts the user to input two numbers and select an operation.
+- **Division by Zero Handling**: Includes error handling for division by zero.
+- **Interactive Console**: The program runs in a console environment and interacts with the user through prompts.
